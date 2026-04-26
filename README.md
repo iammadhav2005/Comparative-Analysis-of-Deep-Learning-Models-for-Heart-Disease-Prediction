@@ -1,4 +1,4 @@
-<h>Heart Disease Prediction using Machine Learning and Deep Learning</h>
+<h>Heart Disease Prediction using Machine Learning and Deep Learning<\h>
 Overview
 
 This project focuses on predicting the risk of heart disease using machine learning and deep learning models. It performs a comparative analysis of multiple models to determine the most effective approach for structured clinical data. The system also includes a graphical user interface (GUI) for real-time prediction based on patient input.
