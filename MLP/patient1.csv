@@ -1,0 +1,2 @@
+id,age,sex,dataset,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,num
+1,65,Male,Cleveland, asymptomatic,160,300,TRUE,lv hypertrophy,90,TRUE,3.5,downsloping,2,fixed defect,1

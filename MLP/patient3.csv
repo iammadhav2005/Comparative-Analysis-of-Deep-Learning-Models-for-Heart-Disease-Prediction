@@ -1,0 +1,2 @@
+id,age,sex,dataset,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,num
+3,37,Male,Cleveland, typical angina,120,180,FALSE,normal,170,FALSE,0.5,upsloping,0,normal,0
